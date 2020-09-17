@@ -11,7 +11,7 @@ def esPalindromo(palabra):
 def main():
     palabra = input('Ingrese la palabra:\n')
     if esPalindromo(palabra):
-        print('FELICITACIONES, TIENES UNA PALABRA PALÍNDROMO')
+        print('FELICITACIONES, TIENES UNA PALABRA PALÍNDROMO👨‍💻👨‍💻')
     else:
         print('OUPS, NO ES UNA PALABRA PALÍNDOMO')
 
